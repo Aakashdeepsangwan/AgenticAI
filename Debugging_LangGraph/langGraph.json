@@ -1,0 +1,8 @@
+{
+
+    "dependencies" : ["."],
+    "graphs" : {
+        "claude_agent" : "/claudeAgent.py : agent"
+    },
+    "env" : "../.env"
+}
